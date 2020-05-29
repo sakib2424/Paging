@@ -1,2 +1,0 @@
-# Paging
-Operating Systems Lab
