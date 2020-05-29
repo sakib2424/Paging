@@ -1,0 +1,10 @@
+#  Lab 4 Demand Paging
+1. Compile the java code
+2. Make sure the random numbers file is in the same directory and is named "random-numbers"
+3. Run the program with the 6 arguments 
+    * Arument 1: M - The machine size in words
+	* Arument 2: P - The page size in words
+	* Arument 3: S - The size of each process
+	* Arument 4: J - The “job mix”
+	* Arument 5: N - The number of references for each process
+	* Arument 6: R - The replacement algorithm, FIFO, RANDOM, or LRU	
